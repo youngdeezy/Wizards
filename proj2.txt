@@ -1,0 +1,28 @@
+Baby Unicorn,Care of Magical Creatures,4,516
+Blast-Ended Skrewt,Care of Magical Creatures,4,460
+Buckbeak,Care of Magical Creatures,4,1356
+Dragon Egg,Care of Magical Creatures,4,544
+Firenze,Care of Magical Creatures,4,1308
+Flobberworm,Care of Magical Creatures,4,1296
+Hagrid's Hut,Care of Magical Creatures,3,438
+Hippogriff,Care of Magical Creatures,4,576
+Kneazle,Care of Magical Creatures,4,416
+Monster Book of Monsters,Care of Magical Creatures,4,1040
+Puffskein,Care of Magical Creatures,4,1692
+Rubeus Hagrid,Care of Magical Creatures,5,620
+Flesh-Eating Slugs,Dark Arts,2,672
+Hag,Dark Arts,2,726
+Hand of Glory,Dark Arts,2,296
+Knockturn Alley Sign,Dark Arts,2,690
+Magic is Might Statue,Dark Arts,2,210
+Magick Moste Evile,Dark Arts,2,216
+Ministry Executioner,Dark Arts,2,236
+Percival Graves,Dark Arts,2,460
+Portrait of Bellatrix Lestrange,Dark Arts,2,200
+Portrait of Voldemort,Dark Arts,2,834
+Swooping Evil,Dark Arts,2,648
+Thestral,Dark Arts,2,432
+Tom Riddle,Dark Arts,2,218
+Tom Riddle Sr.'s Gravestone,Dark Arts,3,810
+Vanishing Cabinet,Dark Arts,2,244
+Wanted Poster of an Azkaban Escapee,Dark Arts,2,564
